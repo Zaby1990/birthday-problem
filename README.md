@@ -5,4 +5,4 @@ In probability theory, the birthday problem asks for the probability that, in a 
 With this script you can play a little bit with the number of people or the desired probability.
 
 ## Result
-![365 people](/result/plot.png)
+![365 people](https://github.com/Zaby1990/birthday-problem/blob/main/results/plot.png?raw=true)
